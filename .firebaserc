@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "ng-ssr-c82c9": {
+      "hosting": {
+        "ssr2": [
+          "ng-ssr-c82c9"
+        ]
+      }
+    }
+  }
+}
